@@ -1,0 +1,13 @@
+asgiref==3.6.0
+certifi==2023.5.7
+distlib==0.3.6
+Django==4.2.1
+django-widget-tweaks==1.4.12
+filelock==3.12.0
+pipenv==2023.6.2
+platformdirs==3.5.1
+PyMySQL==1.0.3
+sqlparse==0.4.4
+tzdata==2023.3
+virtualenv==20.23.0
+virtualenv-clone==0.5.7
